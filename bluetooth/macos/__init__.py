@@ -1,3 +1,5 @@
+import bluetooth.macos.IOBluetooth
+
 import bluetooth.macos.discovery as discovery
 #from bluetooth.macos.btsocket import BluetoothSocket
 
